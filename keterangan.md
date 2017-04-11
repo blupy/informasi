@@ -85,24 +85,15 @@
 		* Ruang	 : 8.4.5 (Unit 8, Lantai 4, Ruang 5)
 
 ## Pembagian Tim
-### 
-* Banu
-* Besta
-* Eka
-* Joko
-
-### Core Development
-* Semua Tim
-
-| Data Science   |Web Development|Hybrid Development - Networking - Internet of Things|
-|----------------|---------------|----------------------------------------------------|
-|Ivan			 |Rohmad	 	 |Banu												  |
-|Mubarok		 |Jeko   	 	 |Besta												  |
-|Chia			 |Acep	 		 |Eka												  |
-|Ocal			 |Firas	 		 |Joko												  |
-|Anggoro		 |Lin	 		 |													  |
-|Jonathan		 |Nofal	 		 |													  |
-|Fitrah			 |Ibnu		 	 |													  |
-|Agung			 |Raka		 	 |													  |
-|				 |Fakhri	 	 |													  |
-|				 |Abdillah	 	 |													  |
+| Data Science   |Web Development|Hybrid Development - Networking - Internet of Things|Core Development|
+|----------------|---------------|----------------------------------------------------|----------------|
+|Ivan			 |Rohmad	 	 |Banu												  |Semua Tim	   |
+|Mubarok		 |Jeko   	 	 |Besta												  |				   |
+|Chia			 |Acep	 		 |Eka												  |				   |
+|Ocal			 |Firas	 		 |Joko												  |				   |
+|Anggoro		 |Lin	 		 |													  |				   |
+|Jonathan		 |Nofal	 		 |													  |				   |
+|Fitrah			 |Ibnu		 	 |													  |				   |
+|Agung			 |Raka		 	 |													  |				   |
+|				 |Fakhri	 	 |													  |				   |
+|				 |Abdillah	 	 |													  |				   |
