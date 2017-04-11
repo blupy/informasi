@@ -97,3 +97,4 @@
 |Agung			 |Raka		 	 |													  |				   |
 |				 |Fakhri	 	 |													  |				   |
 |				 |Abdillah	 	 |													  |				   |
+|				 |Ricky		 	 |													  |				   |
