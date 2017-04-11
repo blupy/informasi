@@ -100,10 +100,9 @@
 |Mubarok		 |Jeko   	 	 |Besta												  |
 |Chia			 |Acep	 		 |Eka												  |
 |Ocal			 |Firas	 		 |Joko												  |
-|Anggoro		 |Lin	 		 |
-|Jonathan		 |Nofal	 		 |
-|Fitrah			 |Ibnu		 	 |
-|Agung			 |Raka		 	 |
-				 |Fakhri	 	 |
-				 |Abdillah	 	 |
-|				 |
+|Anggoro		 |Lin	 		 |													  |
+|Jonathan		 |Nofal	 		 |													  |
+|Fitrah			 |Ibnu		 	 |													  |
+|Agung			 |Raka		 	 |													  |
+|				 |Fakhri	 	 |													  |
+|				 |Abdillah	 	 |													  |
