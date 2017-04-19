@@ -32,6 +32,7 @@
 * [Basic Python - Python v2](https://www.tutorialspoint.com/python/index.htm)
 * [Basic Python - Python v3](https://www.tutorialspoint.com/python3/index.htm)
 * [Django by Example](http://djangobyexample.com/)
+* [Data Science in Python](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
 * [Becoming a Data Scientist](https://www.dataquest.io/path/data-scientist)
 * [Becoming a Data Analyst](https://www.dataquest.io/path/data-analyst)
 * [Python for Android](http://python-for-android.readthedocs.io/en/latest/)
@@ -91,7 +92,7 @@
 |Mubarok		 |Jeko   	 	 |Besta												  |				   |
 |Chia			 |Acep	 		 |Eka												  |				   |
 |Ocal			 |Firas	 		 |Joko												  |				   |
-|Anggoro		 |Lin	 		 |													  |				   |
+|Anggoro		 |Lin	 		 |Nico												  |				   |
 |Jonathan		 |Nofal	 		 |													  |				   |
 |Fitrah			 |Ibnu		 	 |													  |				   |
 |Agung			 |Raka		 	 |													  |				   |
